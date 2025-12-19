@@ -43,6 +43,7 @@
   <commonPictures>CommonPicture.ПодсистемаКонтакты</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаСобытия</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаФинансы</commonPictures>
+  <constants>Constant.DemoConfDT</constants>
   <catalogs>Catalog.ВидыКонтактов</catalogs>
   <catalogs>Catalog.СтатусыДрузей</catalogs>
   <catalogs>Catalog.Друзья</catalogs>
