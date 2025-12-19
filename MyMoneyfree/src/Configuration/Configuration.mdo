@@ -53,6 +53,7 @@
   <documents>Document.РасходДенег</documents>
   <documents>Document.DemoConfDT</documents>
   <enums>Enum.Пол</enums>
+  <enums>Enum.DemoConfDT</enums>
   <reports>Report.Затраты</reports>
   <reports>Report.СколькоДенег</reports>
   <reports>Report.ГрафикПоДням</reports>
