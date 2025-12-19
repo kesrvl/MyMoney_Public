@@ -48,6 +48,7 @@
   <catalogs>Catalog.Друзья</catalogs>
   <catalogs>Catalog.СтатусыСобытий</catalogs>
   <catalogs>Catalog.События</catalogs>
+  <catalogs>Catalog.DemoConfDT</catalogs>
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.РасходДенег</documents>
   <enums>Enum.Пол</enums>
